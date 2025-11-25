@@ -1,4 +1,6 @@
 # ESP32-P4-Core
+[English](https://github.com/VIEWESMART/ESP32-P4-Core/edit/main/README.md) | [中文](https://github.com/VIEWESMART/ESP32-P4-Core/blob/main/README_CN.md)
+
 <img width="1200" height="804" alt="image" src="https://github.com/user-attachments/assets/58394e92-7423-4337-9d05-b1d79f2f30bd" />
 
 ## 1 Introduction
